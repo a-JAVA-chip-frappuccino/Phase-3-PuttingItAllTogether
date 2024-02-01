@@ -1,8 +1,8 @@
 class Makeup():
 
     def __init__(self, brand, type):
-        self._brand = brand
-        self._type = type
+        self.brand = brand
+        self.type = type
 
         # TODO: add people who bought makeup item
         # TODO: add purchases of makeup item

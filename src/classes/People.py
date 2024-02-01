@@ -1,8 +1,8 @@
 class People():
 
     def __init__(self, name, age):
-        self._name = name
-        self._age = age
+        self.name = name
+        self.age = age
 
         # TODO: add makeup items purchased by person
         # TODO: add purchases by person

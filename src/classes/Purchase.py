@@ -3,9 +3,9 @@ class Purchase():
     # TODO: make list of all purchases
 
     def __init__(self, person, makeup_item, date):
-        self._person = person
-        self._makeup_item = makeup_item
-        self._date = date
+        self.person = person
+        self.makeup_item = makeup_item
+        self.date = date
 
         # TODO: construct purchase object as SSOT
 
