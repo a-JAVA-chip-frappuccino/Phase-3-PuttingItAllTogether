@@ -1,12 +1,14 @@
-# Phase 3 Lecture - Putting It All Together
+# Phase 3 Lecture 5: Putting It All Together
 
-## To get started:
+## Objectives
 
-0. Shell into correct Python version
-1. Run `pipenv install` to install the dependencies for the project
-2. Run `pipenv shell` to enter into the project's virtual environment/shell
+By the end of today's lecture, you will be able to mock up a many-to-many relationship in OOP.
 
-## To run each group of files:
+## Lesson Plan
 
-1. `cd` into `src/classes/`
-2. Run `python relations.py` or `python3 relations.py`
+0. Run `pipenv install` to install the dependencies and `pipenv shell` to enter the virtual environment.
+1. Design a many-to-many relationship between makeup items and people, with purchase as a SSOT.
+
+## Looking Ahead
+
+From here on out, we will review OOP in Python.
