@@ -18,7 +18,9 @@ By the end of today's lecture, you will be able to mock up a many-to-many relati
     - Person must be an instance of People class.
     - Date must be a string.
 4. Keep track of the many-to-many relationship between Makeup and People classes, using Purchase as the SSOT.
-5. Add `get_most_popular_brand` to Purchase class to return most common makeup brand.
+5. Add `get_unique_types` to Makeup class to return list of unique makeup item types.
+    - What is necessary to keep track of all makeup instances?
+6. Add `get_most_popular_brand` to Purchase class to return most common makeup brand.
     - What is necessary to keep track of all purchase instances?
 
 ## Looking Ahead
